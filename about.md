@@ -8,8 +8,8 @@ Roxanne Faure is, as the header of this website states, merely a chicken tender 
 
 ### Other Diverting Facts
 
-#### Roxanne is pretty good at drawing
-#### Roxanne worked in a candy store for some years, and had to wear a bow tie rougly as wide as their head
+* Roxanne is pretty good at drawing
+* Roxanne worked in a candy store for some years, and had to wear a bow tie rougly as wide as their head
 
 ### Contact me
 

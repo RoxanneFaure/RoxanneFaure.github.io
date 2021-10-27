@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Roxanne Faure is, as the header of this website states, merely a chicken tender that rolled under the couch and gained sentience. They are fond of bats, beans, and teaching. Their academic interests include comics, Tolkien, and medieval studies.
 
-### More Information
+### Other Diverting Facts
 
-A place to include any other types of information that you'd like to include about yourself.
+~Roxanne is pretty good at drawing
+~Roxanne worked in a candy store for some years, and had to wear a bow tie rougly as wide as their head
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[faure.r@northeastern.edu](mailto:faure.r@northeastern.edu)

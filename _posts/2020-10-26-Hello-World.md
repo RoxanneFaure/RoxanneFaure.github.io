@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello world!
+title: First Foray
 ---
 
-This is your first blog post--make it your own!
+It was a dark and stormy night, if you'd believe it.
